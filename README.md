@@ -1,3 +1,9 @@
+# Lab: 34 - Back End Deployment
+## Author: Yu-Wei Hsieh
+## Source:
+
+https://github.com/codefellows/python-401-api-quickstart
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
